@@ -25,4 +25,4 @@ docs/
 *.html
 
 # Otros archivos temporales
-tasks.json
+tasks.json.env
