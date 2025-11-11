@@ -1,4 +1,28 @@
-__pycache__/
+# Entornos virtuales
 .venv/
-tasks.json
+venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración y entorno
 .env
+*.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+debug.log
+*.log
+
+# Archivos de documentación generada
+docs/
+*.html
+
+# Otros archivos temporales
+tasks.json
